@@ -1,8 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="assets/profile/hero-mobile.png" />
-    <img src="assets/profile/hero.png" width="900" alt="Hello, world. Linux · Android · Automation · Self-hosting" />
-  </picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="assets/profile/hero-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/hero.png" />
+  <source media="(max-width: 640px)" srcset="assets/profile/hero-mobile.gif" />
+  <img src="assets/profile/hero.gif" width="900" alt="Hello, world. Linux · Android · Automation · Self-hosting" />
+</picture>
 </p>
 
 ### 关于我
@@ -16,8 +18,10 @@
 ### 兴趣方向
 
 <picture>
-  <source media="(max-width: 640px)" srcset="assets/profile/interests-mobile.png" />
-  <img src="assets/profile/interests.png" width="900" alt="兴趣方向：编程、Linux、Android、网络隐私、硬件性能" />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="assets/profile/interests-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/interests.png" />
+  <source media="(max-width: 640px)" srcset="assets/profile/interests-mobile.gif" />
+  <img src="assets/profile/interests.gif" width="900" alt="兴趣方向：编程、Linux、Android、网络隐私、硬件性能" />
 </picture>
 
 <details>
@@ -49,9 +53,12 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="assets/profile/signature-mobile.png" />
-    <img src="assets/profile/signature.png" width="560" alt="保持好奇，自由探索。" />
-  </picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="assets/profile/signature-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/signature.png" />
+  <source media="(max-width: 640px)" srcset="assets/profile/signature-mobile.gif" />
+  <img src="assets/profile/signature.gif" width="560" alt="保持好奇，自由探索。" />
+</picture>
 </p>
+
 
 
