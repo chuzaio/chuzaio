@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile-glass.png" width="100%" alt="个人介绍：Linux、Android、编程、自托管与隐私安全。签名：保持好奇，自由探索。" />
+</p>
 
-<!--
-**chuzaio/chuzaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>文字版介绍</summary>
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+喜欢编程，也喜欢研究系统、网络和硬件。遇到有意思的功能，会想弄清它如何实现，再尝试把它用到实际问题里。
+平时接触 Linux 和 Android，关注自托管、自动化与隐私安全。很多学习从一个具体问题开始，在动手尝试和排查的过程中，慢慢把原理弄清楚。
+
+## 兴趣与探索
+
+| 方向 | 兴趣内容 |
+| :--- | :--- |
+| **Linux 与自托管** | 配置系统、部署服务，研究它们如何运行，以及怎样维护得更稳定。 |
+| **编程与自动化** | 从日常需求出发，尝试写小工具和脚本，减少重复操作。 |
+| **Android 与硬件** | 探索系统定制、设备调试与性能表现，了解软件和硬件之间的配合。 |
+| **网络与隐私** | 关注网络连接、访问控制和应用权限，也在意数据如何被使用。 |
+
+## 习惯与日常
+
+- 遇到问题，先看现象和日志，再尝试复现、定位原因。
+  
+- 选择工具，会考虑稳定性、兼容性、使用成本和自己的实际需求。
+  
+- 交流时，喜欢直接、具体的讨论，也愿意根据实际结果修正判断。
+  
+- 闲下来，会玩游戏、关注数码产品，看看新设备和新技术。
+
+
+## 签名
+
+> 保持好奇，自由探索。
+
+</details>
